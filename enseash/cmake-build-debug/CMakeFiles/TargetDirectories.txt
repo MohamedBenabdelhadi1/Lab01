@@ -1,3 +1,0 @@
-/home/ensea/Desktop/enseash/cmake-build-debug/CMakeFiles/enseash.dir
-/home/ensea/Desktop/enseash/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ensea/Desktop/enseash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
