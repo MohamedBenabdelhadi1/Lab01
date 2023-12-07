@@ -35,9 +35,12 @@ WIFEXITED(status) == true si le fils s’est terminé normalement (exit ou retur
                               
 On a declarer deux variables pour stocker le status de exit et le signal int exit_res, signal_res
 
+
 apres on a utilisé les boucles if pour tester si le procesus est terminer par un exit ou un signal
 
+
 apres on a afficher la valeur du retour 
+
 
 Remarque on ne savait pas qu'on est censé utiliser sprintf donc on a crée un code dans la qestion 5 qui affiche les int avec write (qui nous a pris beaucoup de temps XD)
 
