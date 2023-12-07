@@ -1,6 +1,6 @@
 # Lab01
 # question 1
-Affichage d’un message d’accueil, suivi d’un prompt simple ::
+Affichage d’un message d’accueil, suivi d’un prompt simple :;
 deux fonction write  et read sont utilisées pour la lecture et l'écriture de données
 
 # question 2
