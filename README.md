@@ -29,9 +29,11 @@ On a utiliser les deux fonctions WIFEXITED(status) pour le exit et WIFSIGANNLED(
 
 WIFEXITED(status) == true si le fils s’est terminé normalement (exit ou return depuis le main()).  
   
-                              WEXITSTATUS(status) renvoie dans ce cas la valeur de sortie du fils.  
- 	WIFSIGNALED(status) == true si le fils s’est terminé à cause d’un signal.   
-                              WTERMSIG(status) renvoie alors le numéro du signal qui a causé la fin du fils.  
+  WEXITSTATUS(status) renvoie dans ce cas la valeur de sortie du fils.  
+  
+  WIFSIGNALED(status) == true si le fils s’est terminé à cause d’un signal.  
+  
+  WTERMSIG(status) renvoie alors le numéro du signal qui a causé la fin du fils.  
                               
 On a declarer deux variables pour stocker le status de exit et le signal int exit_res, signal_res
 
