@@ -1,4 +1,6 @@
 # Lab02
+### Nous avons commis une erreur en remplaçant le code de la question 2 par celui de la question 3. Toutefois, nous avons rectifié cette erreur dans le souci de garantir l'intégrité de notre travail. Nous nous excusons sincèrement pour la nécessité d'intervenir dans le Git aujourd'hui, mais notre intention était de prévenir toute évaluation incorrecte de notre travail. Nous vous prions de bien vouloir accepter nos excuses et vous souhaitons de joyeuses fêtes.
+
 ![33](https://github.com/MohamedBenabdelhadi1/Lab01/assets/152403377/73d5e866-aaf9-4251-9460-325806f7c0fc)
 
 on a tester la connextion au serveur info1 de l'école et on a récupérer le ficher test et aussi le upload d'un fichier de notre pc
